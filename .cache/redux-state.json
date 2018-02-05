@@ -1,0 +1,2930 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/macbookpro/Documents/git/Blog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1517843646599,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/macbookpro/Documents/git/Blog/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0b6f35741873dcc9f740943b290cd683",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "47b9aae27ef2bd0513b50114908b586e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b7b3c7d35788ab123e58f16b37b7c162",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2d8342bd924959a826c95124d47b469c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5ed8929253eac1389c8624c01b9457c5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6ebd5c50893a0ca6ce73ede0470c3c86",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "03c255649351526670288676d8b5d1e9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.16",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/macbookpro/Documents/git/Blog/content/posts",
+        "name": "posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "50ea118598fcd2a1021ae8e180020b3a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.30",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.41",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 800,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "1.4.16",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 1.0725rem"
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "1.2.12",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.25",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-smartypants",
+            "id": "Plugin gatsby-remark-smartypants",
+            "name": "gatsby-remark-smartypants",
+            "version": "1.4.10",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-smartypants"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.30",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "75b32d8e2c10e12e68e42255df097d52",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.41",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 800,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.41",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "image",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.27"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c4db3c338f5b7f1b99d25fd02e9d73b4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-responsive-iframe": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "1.4.16",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 1.0725rem"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "1.4.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0cd25dccf95804e0852e3e393745537b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "1.2.12",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "1.2.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c36216bcb7b4785b4fa0887ca5e297a0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.25",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.25",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9af3636f4fcaaf7bdc342dcf325e05ac",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-smartypants": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-smartypants",
+      "id": "Plugin gatsby-remark-smartypants",
+      "name": "gatsby-remark-smartypants",
+      "version": "1.4.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "1.4.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "retext",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4015ec1e1d054e4c13b47797f05b5acc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sharp",
+          "image"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "37e5d36dfd8d820c38ef44d2d4de5791",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.27",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.27",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.19.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3dd6d1d9fcff435e379c3fa28c6bba4c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9e6f1738668bac3c0f76938d89bc1948",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-catch-links": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
+      "name": "gatsby-plugin-catch-links",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9e6246b57221a99460647f136f4ae0a2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-manifest": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
+      "name": "gatsby-plugin-manifest",
+      "version": "1.0.13",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "xypisces blog with web",
+        "short_name": "XuyuBlog",
+        "start_url": "/",
+        "background_color": "#fff",
+        "theme_color": "#CFC0CF",
+        "display": "keepalone",
+        "icons": [
+          {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
+        "version": "1.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "manifest.json",
+          "pwa",
+          "progressive-web-app"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1274f176c65a3877eb31c59082cde364",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-netlify": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-netlify",
+      "id": "Plugin gatsby-plugin-netlify",
+      "name": "gatsby-plugin-netlify",
+      "version": "1.0.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig",
+        "onPostBuild"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-netlify",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify",
+        "description": "A Gatsby plugin which generates a _headers file for netlify",
+        "version": "1.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "netlify",
+          "http/2-server-push"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "webpack-assets-manifest",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d9ea7dcdfef087d99c6fdd65aad893e3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "43b70537469def0314e557853bfda139",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.17",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "QQ-953945582"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3f36a91372798211c0d4672cdeef1b9e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/macbookpro/Documents/git/Blog",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "cadc422663af357ca5068439e5be0042",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/macbookpro/Documents/git/Blog",
+      "packageJson": {
+        "name": "gatsby-styled-blog-starter",
+        "description": "StyledBlog starter/theme for Gatsby",
+        "version": "0.0.2",
+        "author": "Greg Lobinski <greglobinski@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.110"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.24"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.27"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.13"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.10"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.21"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.10"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.21"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.32"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^1.2.9"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^1.4.14"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^1.4.8"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.8"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.21"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.14"
+          },
+          {
+            "name": "normalize.css",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "react-redux",
+            "version": "^5.0.6"
+          },
+          {
+            "name": "redux",
+            "version": "^3.7.2"
+          },
+          {
+            "name": "redux-devtools-extension",
+            "version": "^2.13.2"
+          },
+          {
+            "name": "styled-components",
+            "version": "2.2.0"
+          },
+          {
+            "name": "what-input",
+            "version": "^5.0.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^1.1.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c1581c2dc9819608ed31adda9dad917c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "User Experience Notes 2",
+        "author": "Greg Lobinski"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-02-05T15:04:22.247Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ffeca759df760ebff212c426592e860e",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "21b1ac2ff8da67ad1f2e048c81a3c990",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 272,
+      "prettySize": "272 B",
+      "modifiedTime": "2018-02-05T14:07:01.000Z",
+      "accessTime": "2018-02-05T15:04:28.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-03T09:42:15.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 8,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576732,
+      "blocks": 0,
+      "atimeMs": 1517843068000,
+      "mtimeMs": 1517839621000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517650935000,
+      "atime": "2018-02-05T15:04:28.000Z",
+      "mtime": "2018-02-05T14:07:01.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-03T09:42:15.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1 absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c442204ce44c0e144c2a90c7c865fe41",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1",
+      "relativePath": "2017-11-11--you-dont-know-js1",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-02-05T13:50:46.000Z",
+      "accessTime": "2018-02-05T15:04:28.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:48:25.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts",
+      "base": "2017-11-11--you-dont-know-js1",
+      "ext": "",
+      "name": "2017-11-11--you-dont-know-js1",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576733,
+      "blocks": 0,
+      "atimeMs": 1517843068000,
+      "mtimeMs": 1517838646000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517838505000,
+      "atime": "2018-02-05T15:04:28.000Z",
+      "mtime": "2018-02-05T13:50:46.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:48:25.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2 absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "455dedab1a2e73d5919b45d1e20e30b2",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2",
+      "relativePath": "2017-11-18--you-dont-know-js2",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-02-05T13:53:52.000Z",
+      "accessTime": "2018-02-05T15:04:28.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:53:04.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts",
+      "base": "2017-11-18--you-dont-know-js2",
+      "ext": "",
+      "name": "2017-11-18--you-dont-know-js2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576736,
+      "blocks": 0,
+      "atimeMs": 1517843068000,
+      "mtimeMs": 1517838832000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517838784000,
+      "atime": "2018-02-05T15:04:28.000Z",
+      "mtime": "2018-02-05T13:53:52.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:53:04.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3 absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "197c177b2d65f1cfb2acfc8bb9dbb5ab",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3",
+      "relativePath": "2017-11-25--you-dont-know-js3",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-02-05T13:56:33.000Z",
+      "accessTime": "2018-02-05T15:04:28.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:56:00.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts",
+      "base": "2017-11-25--you-dont-know-js3",
+      "ext": "",
+      "name": "2017-11-25--you-dont-know-js3",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576739,
+      "blocks": 0,
+      "atimeMs": 1517843068000,
+      "mtimeMs": 1517838993000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517838960000,
+      "atime": "2018-02-05T15:04:28.000Z",
+      "mtime": "2018-02-05T13:56:33.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:56:00.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5cc2dc15aa2ca033eb19416f2a42cc1e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api",
+      "relativePath": "2017-12-02--express-api",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-02-05T14:03:48.000Z",
+      "accessTime": "2018-02-05T15:04:28.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:59:55.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts",
+      "base": "2017-12-02--express-api",
+      "ext": "",
+      "name": "2017-12-02--express-api",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576742,
+      "blocks": 0,
+      "atimeMs": 1517843068000,
+      "mtimeMs": 1517839428000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839195000,
+      "atime": "2018-02-05T15:04:28.000Z",
+      "mtime": "2018-02-05T14:03:48.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:59:55.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1 absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bb8549296b2f1480dbb5fc28d72cba35",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1",
+      "relativePath": "2017-12-09--peixun-1",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-02-05T14:04:54.000Z",
+      "accessTime": "2018-02-05T15:04:28.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T14:04:34.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts",
+      "base": "2017-12-09--peixun-1",
+      "ext": "",
+      "name": "2017-12-09--peixun-1",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576745,
+      "blocks": 0,
+      "atimeMs": 1517843068000,
+      "mtimeMs": 1517839494000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839474000,
+      "atime": "2018-02-05T15:04:28.000Z",
+      "mtime": "2018-02-05T14:04:54.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T14:04:34.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2 absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "23f81799f717220c6576422739fe5c45",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2",
+      "relativePath": "2017-12-16--peixun-2",
+      "extension": "",
+      "size": 136,
+      "prettySize": "136 B",
+      "modifiedTime": "2018-02-05T14:08:05.000Z",
+      "accessTime": "2018-02-05T15:04:28.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T14:07:01.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts",
+      "base": "2017-12-16--peixun-2",
+      "ext": "",
+      "name": "2017-12-16--peixun-2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576748,
+      "blocks": 0,
+      "atimeMs": 1517843068000,
+      "mtimeMs": 1517839685000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839621000,
+      "atime": "2018-02-05T15:04:28.000Z",
+      "mtime": "2018-02-05T14:08:05.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T14:07:01.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "abcfd739531df18f6a21d86d7cb475b7",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md",
+      "relativePath": "2017-11-11--you-dont-know-js1/index.md",
+      "extension": "md",
+      "size": 3162,
+      "prettySize": "3.16 kB",
+      "modifiedTime": "2018-02-05T15:14:05.000Z",
+      "accessTime": "2018-02-05T15:14:05.000Z",
+      "changeTime": "2018-02-05T15:14:05.000Z",
+      "birthTime": "2018-02-05T13:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-11-11--you-dont-know-js1",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576734,
+      "blocks": 8,
+      "atimeMs": 1517843645000,
+      "mtimeMs": 1517843645000,
+      "ctimeMs": 1517843645000,
+      "birthtimeMs": 1517838512000,
+      "atime": "2018-02-05T15:14:05.000Z",
+      "mtime": "2018-02-05T15:14:05.000Z",
+      "ctime": "2018-02-05T15:14:05.000Z",
+      "birthtime": "2018-02-05T13:48:32.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "181f9e8beb83dce635b6bf0d02b7d815",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png",
+      "relativePath": "2017-11-11--you-dont-know-js1/knowjs.png",
+      "extension": "png",
+      "size": 44861,
+      "prettySize": "44.9 kB",
+      "modifiedTime": "2018-02-05T13:50:46.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:50:46.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1",
+      "base": "knowjs.png",
+      "ext": ".png",
+      "name": "knowjs",
+      "relativeDirectory": "2017-11-11--you-dont-know-js1",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576735,
+      "blocks": 88,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517838646000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517838646000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T13:50:46.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:50:46.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "871587df10f75eea149509523e0a7fc1",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md",
+      "relativePath": "2017-11-18--you-dont-know-js2/index.md",
+      "extension": "md",
+      "size": 2739,
+      "prettySize": "2.74 kB",
+      "modifiedTime": "2018-02-05T14:23:20.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:53:09.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-11-18--you-dont-know-js2",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576737,
+      "blocks": 8,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517840600000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517838789000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T14:23:20.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:53:09.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "181f9e8beb83dce635b6bf0d02b7d815",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png",
+      "relativePath": "2017-11-18--you-dont-know-js2/knowjs.png",
+      "extension": "png",
+      "size": 44861,
+      "prettySize": "44.9 kB",
+      "modifiedTime": "2018-02-05T13:53:52.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:53:52.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2",
+      "base": "knowjs.png",
+      "ext": ".png",
+      "name": "knowjs",
+      "relativeDirectory": "2017-11-18--you-dont-know-js2",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576738,
+      "blocks": 88,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517838832000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517838832000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T13:53:52.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:53:52.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b72553f2597827ae4c6fe8d94826aff0",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md",
+      "relativePath": "2017-11-25--you-dont-know-js3/index.md",
+      "extension": "md",
+      "size": 1399,
+      "prettySize": "1.4 kB",
+      "modifiedTime": "2018-02-05T14:23:34.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:56:06.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-11-25--you-dont-know-js3",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576740,
+      "blocks": 8,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517840614000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517838966000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T14:23:34.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:56:06.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c8ec360bfce9e7859f745ba8f4bb4891",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md",
+      "relativePath": "2017-12-02--express-api/index.md",
+      "extension": "md",
+      "size": 4619,
+      "prettySize": "4.62 kB",
+      "modifiedTime": "2018-02-05T14:23:43.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T14:00:19.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-12-02--express-api",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576744,
+      "blocks": 16,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517840623000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839219000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T14:23:43.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T14:00:19.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "181f9e8beb83dce635b6bf0d02b7d815",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png",
+      "relativePath": "2017-11-25--you-dont-know-js3/knowjs.png",
+      "extension": "png",
+      "size": 44861,
+      "prettySize": "44.9 kB",
+      "modifiedTime": "2018-02-05T13:56:33.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T13:56:33.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3",
+      "base": "knowjs.png",
+      "ext": ".png",
+      "name": "knowjs",
+      "relativeDirectory": "2017-11-25--you-dont-know-js3",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576741,
+      "blocks": 88,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517838993000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517838993000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T13:56:33.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T13:56:33.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ed1889be2c05028ff74d6608f80ca2a3",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg",
+      "relativePath": "2017-12-02--express-api/express.jpg",
+      "extension": "jpg",
+      "size": 44856,
+      "prettySize": "44.9 kB",
+      "modifiedTime": "2018-02-05T14:03:48.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T14:03:48.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api",
+      "base": "express.jpg",
+      "ext": ".jpg",
+      "name": "express",
+      "relativeDirectory": "2017-12-02--express-api",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576743,
+      "blocks": 88,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517839428000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839428000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T14:03:48.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T14:03:48.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "230445d4bf5803ec3a765ec8316c39aa",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md",
+      "relativePath": "2017-12-16--peixun-2/index.md",
+      "extension": "md",
+      "size": 3681,
+      "prettySize": "3.68 kB",
+      "modifiedTime": "2018-02-05T14:21:32.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T14:07:06.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-12-16--peixun-2",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576750,
+      "blocks": 8,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517840492000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839626000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T14:21:32.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T14:07:06.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5844f420db4cf2fc9acb572f29203ecc",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md",
+      "relativePath": "2017-12-09--peixun-1/index.md",
+      "extension": "md",
+      "size": 4862,
+      "prettySize": "4.86 kB",
+      "modifiedTime": "2018-02-05T14:23:46.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T14:04:49.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-12-09--peixun-1",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576747,
+      "blocks": 16,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517840626000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839489000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T14:23:46.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T14:04:49.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png absPath of file >> ImageSharp": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png absPath of file",
+      "internal": {
+        "contentDigest": "181f9e8beb83dce635b6bf0d02b7d815",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png absPath of file >> ImageSharp": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png absPath of file",
+      "internal": {
+        "contentDigest": "181f9e8beb83dce635b6bf0d02b7d815",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png absPath of file >> ImageSharp": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png absPath of file",
+      "internal": {
+        "contentDigest": "181f9e8beb83dce635b6bf0d02b7d815",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg absPath of file",
+      "internal": {
+        "contentDigest": "ed1889be2c05028ff74d6608f80ca2a3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cac8ce16db6bf6b72438b8d96cee51f8",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg",
+      "relativePath": "2017-12-09--peixun-1/dva.jpg",
+      "extension": "jpg",
+      "size": 123052,
+      "prettySize": "123 kB",
+      "modifiedTime": "2018-02-05T14:04:54.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T14:04:54.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1",
+      "base": "dva.jpg",
+      "ext": ".jpg",
+      "name": "dva",
+      "relativeDirectory": "2017-12-09--peixun-1",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576746,
+      "blocks": 248,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517839494000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839494000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T14:04:54.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T14:04:54.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg absPath of file",
+      "internal": {
+        "contentDigest": "cac8ce16db6bf6b72438b8d96cee51f8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: JS基础查缺补漏--变量类型与原型链\nsubTitle: 正所谓，欲穷千里目，先打好地基...\ndate: \"2017-11-11\"\npath: \"/know-js-1/\"\ncover: knowjs.png\n---\n\n## 变量类型与变量计算\n相关知识点\n- typeof能判断几种类型\n- ===与==区别\n- 内存空间问题\n- 变量的存储方式\n- 关于JSON\n\n### typeof\ntypeof 只能分辨出值类型（即五种基本类型null,underfined,Boolean,Number,String），无法分辨出引用类型（Function, Array, Object等都会被识别为Object）（除了函数）。\n```js\nfunction fn() {}\nconsole.log(typeof(fn)) //Function\n```\n\n### ===与==\n下面几种情况会发生强制类型转换\n- 字符串拼接  // 1+'1'  // '11'\n- ==\n- if语句 （if里面的判断会转换成true，false）\n- 逻辑运算符\n所以当需要判断进行判断的时候尽量用全等===，除了下面这个\n```js\n// 判断对象的属性是否存在\nobj.a == null // obj.a === null || obj.a === underfined\n```\n### 内存空间问题\n首先先理解三种数据结构\n- 栈 （先进后出）  应用于执行上下文，函数调用栈\n- 堆  （按key-value的形式） 应用于js运行中的变量存储\n- 队列 （先进先出） 应用于事件循环机制\n\n### 值类型和引用类型\n像数字和字符串这类属于值类型，会单独分配地址。而像对象,数组,函数属于引用类型，使用地址进行引用。\n```javascript\n// 值引用\nvar a = 100\nvar b = a\na = 200\nconsole.log(b) // 100\n// 引用类型\nvar a = {age:20}\nvar b = a\na.age = 21\nconsole.log(b.age) //21\n```\n\n###JSON\n记住JSON是数据格式也是js对象\n```js\n//常用方法，可用于对象的深拷贝\nJSON.stringify({a:10, b:20}) //对象变成字符串\nJSON.parse('{\"a\":10,\"b\":20}') // 字符串变成对象\n```\n\n## 原型与原型链\n- 判断变量是数组类型\n- 写一个原型链继承的例子\n- 描述new一个对象的过程\n- zepto源码中如何使用原型链\n\n### 构造函数\nvar a = {} // var a = new Object()\na instanceof Array //判断变量是不是数组\n### 原型规则\n所有引用类型都有__proto__属性 //obj.__proto__\n所有的函数都有一个prototype属性 // func.prototype\n所有的引用类型的__proto__属性指向它的构造函数的prototype属性值 // obj.__proto__ === Object.prototype\nfor(item in f){\n if(f.hasOwnPropety(item)){}\n}\n当试图得到一个对象的属性时，如果这个对象本身没有这个属性，那就会去它的__proto__中去寻找\n### 原型链  \n```js\nfunction Elem(id){\n   this.elem = document.getElementById(id);\n}\nElem.prototype.html = function(val){\n      var elem = this.elem\n      if(val){\n          elem.innerHTML = val\n      }else{\n         return elem.innerHTML \n      }\n}\nvar div1 = new Elem('hello')\ndiv1.html('hello wrold')\n```\n### instanceof\n前面提到无法用typeof判断一个变量是否为数组，用instanceof就可以，instanceof会根据原型链，追寻到构造函数中去，因而可以进行判断。\n\n### new的过程\n简单来说就四个步骤\n- 创建一个新的对象 \n- 将this指向这个新的对象 // var this = {}\n- 给对象添加属性和方法 // this.fn = {}\n- 返回这个对象\n",
+        "contentDigest": "ddc0a6d0c07417907ca04eb9e4e090f9",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "JS基础查缺补漏--变量类型与原型链",
+        "subTitle": "正所谓，欲穷千里目，先打好地基...",
+        "date": "2017-11-11",
+        "path": "/know-js-1/",
+        "cover": "knowjs.png",
+        "_PARENT": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file",
+        "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: JS基础查缺补漏--作用域与闭包\nsubTitle: 面试必考题，说明其必须掌握的重要性。\ndate: \"2017-11-18\"\npath: \"/know-js-2/\"\ncover: knowjs.png\n---\n\n## 作用域与闭包\n先看几个问题：\n- 对变量提升的理解\n- 说明this几种不同的使用场景\n- 创建10个<a>标签，点击的时候弹出对应的序号\n- 如何理解作用域\n- 实际开发中闭包的作用\n\n知识点：\n- 执行上下文\n- 作用域\n- 作用域链\n- 闭包\n- this\n\n### 执行上下文\n首先知道js是单线程的，当一个函数调用时会创建一个执行上下文，然后推人函数调用栈，调用结束后会推出栈\n```js\nvar color = 'blue';\nfunction changeColor() {\n    var anotherColor = 'red';\n    function swapColors() {\n        var tempColor = anotherColor;\n        anotherColor = color;\n        color = tempColor;\n    }\n    swapColors();\n}\nchangeColor();\n```\n![1](https://user-images.githubusercontent.com/15880978/34150833-894ad738-e4e4-11e7-9455-e932f1680119.png)\n当执行上下文创建的时候有两个生命周期\n![599584-391af3aad043c028](https://user-images.githubusercontent.com/15880978/34150979-e9b9cb56-e4e4-11e7-9613-1c3e85690147.png)\n而生产变量对象过程中有几个步骤，这些都是在函数执行前作用的，而已函数声明比变量声明优先，当声明变量与函数声明同名时，会被跳过不执行。\n![599584-7d131cfe82a20d37](https://user-images.githubusercontent.com/15880978/34151050-216a2730-e4e5-11e7-9655-70a647320b45.png)\n\n### 作用域\n作用域只是一套规则，用来管理不同子作用域的变量，例如js在es6之前没有块级作用域，使得各函数间容易污染变量。\n\n### 作用域链\n你可以把作用域链当做一条绳子，你可以顺着绳子访问到每个节点上的值\n\n### 关于this\n关于this只要记住几句话\n- this要在执行时才能确认值，定义时无法确认\n- this的指向为调用者函数的拥有者，独立调用则为underfined，非严格模式为window\n\nthis的几种执行方法\n- 作为构造函数执行\n- 作为对象属性执行\n- 作为普通函数执行\n- call,apply bind\n\n### 闭包\n所谓闭包就是在其他执行上下文中，访问到函数的内部变量，当函数被推出后，变量的引用保留而不被销毁，一般应用于模块化私有变量。\n\n闭包的形成的两个条件\n- 在函数内部创建新的函数\n- 新的函数在执行时访问了函数的变量对象\n```js\n//闭包的应用\n(function () {\n    var a = 10;\n    var b = 20;\n\n    function add(num1, num2) {\n        var num1 = !!num1 ? num1 : a;\n        var num2 = !!num2 ? num2 : b;\n\n        return num1 + num2;\n    }\n\n    window.add = add;\n})();\n\nadd(10, 20);\n```\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "contentDigest": "118a167ba7f9a9986470ab52258a2fc5",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "JS基础查缺补漏--作用域与闭包",
+        "subTitle": "面试必考题，说明其必须掌握的重要性。",
+        "date": "2017-11-18",
+        "path": "/know-js-2/",
+        "cover": "knowjs.png",
+        "_PARENT": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file",
+        "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: JS基础查缺补漏--异步与单线程\nsubTitle: 掌握了解js运行机制，才能更加方便你去理解和编写代码。\ndate: \"2017-11-25\"\npath: \"/know-js-3/\"\ncover: knowjs.png\n---\n\n## 异步与单线程\n几个问题\n- 同步和异步的区别\n- 使用异步的场景\n- 获取2017-11-11的格式日期\n- 获取随机数，要求是长度一致的字符串格式\n- 写一个能遍历对象和数组的通用foreach函数\n### 异步\n- 由于js是单线程,所以需要异步，比如Ajax,好处就是节约时间，不会阻塞\n### 获取日期格式\n```js\nfunction formateDate(date){\n    if(!date){\n        date = new Date()\n    }\n    var year = date.getFullYear()\n    var month = date.getMonth() + 1\n    var day = date.getDate()\n    if(month < 10) {\n        month = '0' + month\n    }\n    if (day < 10) {\n        day = '0' + date\n    }\n    return year + '-' + month + '-' day\n}\nvar date = new Date()\nvar Date = formateDate(date)\nconsole.log(Date)\n```\n### 长度一致的字符串格式\n```js\nvar random = Math.random()\nvar random = random + '0000000000'\nvar random = random.slice(0,10)\nconsole.log(random)\n```\n### foreach函数\n```js\nfunction forEach(obj, fn) {\n    var key\n    if(obj instanceof Array) {\n        obj.forEach(function (item, index) {\n            fn(index, item)\n        })\n    } else {\n        for (key in obj) {\n            fn(key, obj[key])\n        }\n    }\n}\n```",
+        "contentDigest": "64ffbea6144986c0dc8b9780e7193fc8",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "JS基础查缺补漏--异步与单线程",
+        "subTitle": "掌握了解js运行机制，才能更加方便你去理解和编写代码。",
+        "date": "2017-11-25",
+        "path": "/know-js-3/",
+        "cover": "knowjs.png",
+        "_PARENT": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file",
+        "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Express编写restful风格api\nsubTitle: 成为全栈工程师的第一步，给你自己写个接口吧。\ndate: \"2017-12-02\"\npath: \"/express-api/\"\ncover: express.jpg\n---\n\n> 前后端分离的大背景，学习node构建为前端提供json格式的数据，遵循restful api的设计风格，有利于前端工程师的进一步深入，向全栈工程师又迈出一小步。\n\n### 环境\n- Node.js\n- MongoDB\n\n环境安装我就不细讲了，搜索引擎都有，Window配置MongoDB是有点烦的，开发还是尽量来台mac吧.\n\n### 文件目录\n```\n-app  \n  -models //数据库相关\n     -bear.js\n-package.json //依赖文件\n-server.js //node服务\n```\n\n步骤是npm init后会生成package.json,然后安装相关依赖\n```js\n  \"dependencies\": {\n    \"body-parser\": \"^1.18.2\",\n    \"express\": \"^4.16.2\",\n    \"mongoose\": \"^4.13.5\"\n  }\n```\n### 启动一个node服务\n```javascript\n// express为node的框架，虽然现在koa好像比较流行，但是还值得入门学一下。\n// body-parser可以理解为解析数据的工具\n// app.use(path,callback),为指定路径添加中间件，如果没有path,则默认'/'，\nvar express = require('express');  \nvar app = express();\nvar bodyParser = require('body-parser');\n\napp.use(bodyParser.urlencoded({ extended: true }));\napp.use(bodyParser.json());\n\nvar port = process.env.PORT || 8080;\n\nvar router = express.Router();\n\nrouter.get('/', function(req,res){\n  console.log('something is get!!');\n  res.json({\n    message: 'hello, world!'\n  })\n})\n\napp.use('/api', router);\napp.listen(port);\nconsole.log('magic is coming' + port);\n```\n### 数据库服务\nbear.js\n```javascript\n// new Schema生成一张表，\n// mongoose.model(name,Schema)给表命名\nvar mongoose = require('mongoose');\nvar Schema = mongoose.Schema;\n\nvar BearSchema = new Schema({\n  name: String\n});\nmodule.exports = mongoose.model('Bear', BearSchema);\n```\n### api编写\nserver.js\n```javascript\n....\n// 引入mongo\nvar mongoose = require('mongoose');\nmongoose.connect('mongodb://localhost/node_api');\n\nvar Bear = require('./app/models/bear');\n....\n//post请求获取数据 req.body.name\n//get请求获取数据 req.params.name.\nrouter.route('/bears').post(function(req,res){\n    var bear = new Bear();\n    bear.name = req.body.name;\n      console.log(bear);\n    bear.save(function(err){\n      if(err){\n        res.send(err);\n      }\n      res.json({\n        message: 'bear is created!!!'\n      })\n    })\n  })\n  .get(function(req,res){\n    Bear.find(function(err,bears){\n      if(err){\n        res.send(err);\n      }\n      res.json(bears);\n    })\n  })\n\n```\n### 相关完整代码\nserver.js\n```javascript\nvar express = require('express');\nvar app = express();\nvar bodyParser = require('body-parser');\n\nvar mongoose = require('mongoose');\nmongoose.connect('mongodb://localhost/node_api');\n\nvar Bear = require('./app/models/bear');\n\napp.use(bodyParser.urlencoded({ extended: true }));\napp.use(bodyParser.json());\n\nvar port = process.env.PORT || 8080;\n\nvar router = express.Router();\n\n// middleware\nrouter.use(function(req,res,next){\n  console.log('something is happen!!');\n  next();\n})\n\nrouter.route('/bears').post(function(req,res){\n    var bear = new Bear();\n    bear.name = req.body.name;\n      console.log(bear);\n    bear.save(function(err){\n      if(err){\n        res.send(err);\n      }\n      res.json({\n        message: 'bear is created!!!'\n      })\n    })\n  })\n  .get(function(req,res){\n    Bear.find(function(err,bears){\n      if(err){\n        res.send(err);\n      }\n      res.json(bears);\n    })\n  })\n\nrouter.route('/bears/:bear_id').get(function(req,res){\n  Bear.findById(req.params.bear_id,function(err,bear){\n    if(err){\n      res.send(err)\n    }\n    res.json(bear);\n  })\n})\n.put(function(req,res){\n  Bear.findById(req.params.bear_id, function(err, bear){\n    if(err){\n      res.send(err)\n    }\n    bear.name = req.body.name;\n    bear.save(function(err){\n      if(err){\n        res.send(err)\n      }\n      res.json({\n        message: 'Bear is update success!!!'\n      })\n    })\n  })\n})\n.delete(function(req,res){\n  Bear.remove({\n    _id: req.params.bear_id\n  }, function(err,bear){\n    if(err){\n      res.send(err)\n    }\n    res.json({\n      message: 'delete is success!!!'\n    })\n  })\n})\n\n\nrouter.get('/', function(req,res){\n  console.log('something is get!!');\n  res.json({\n    message: 'hello, world!'\n  })\n})\n\napp.use('/api', router);\n\napp.listen(port);\nconsole.log('magic is coming' + port);\n```\n\n总结：师傅领进门，修行看个人，看上去好像挺简单，但是也需要自己手打出来理解还深一点，特别上刚入门的同学，实践出真知啊。",
+        "contentDigest": "596c91d811ec000e05b39d01a9155944",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Express编写restful风格api",
+        "subTitle": "成为全栈工程师的第一步，给你自己写个接口吧。",
+        "date": "2017-12-02",
+        "path": "/express-api/",
+        "cover": "express.jpg",
+        "_PARENT": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file",
+        "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: 实习生培训--Dva框架数据调用\nsubTitle: 公司用Dva框架进行前端开发，Dva是基于redux,redux-saga和react-router的框架，简单容易上手。\ndate: \"2017-12-16\"\npath: \"/peixun-dva/\"\ncover: dva2.png\n---\n## dva框架之数据调用\n\n### route\nroute负责页面渲染和数据展示\n```js\n//基础模板\n// routes/admin/index.js\nimport React from 'react';\nimport { connect } from 'dva';\n\nclass Index extends React.Component {\n  render() {\n    return (\n      <div> hello world !</div>\n    )\n  }\n}\n\nexport default connect()(Index);\n```\nrouter.js负责全部路由的管理\n```js\n//引入\nimport React from 'react';\nimport { Router, Route, Switch } from 'dva/router';\nimport IndexPage from './routes/IndexPage';\nimport Index from './routes/admin/Index';\n\nfunction RouterConfig({ history }) {\n  return (\n    <Router history={history}>\n      <Switch>\n        <Route path=\"/\" exact component={IndexPage} />\n        <Route path=\"/admin\" component={Index} />\n      </Switch>\n    </Router>\n  );\n}\nexport default RouterConfig;\n```\nantd是一款ui框架，想象成bootstrap,它将常用的东西封装成组件提供使用\n```js\n//布局\nimport { Layout, Menu, Icon } from 'antd';\nconst { Header, Sider, Content } = Layout;\n```\n\n路由嵌套\n\nreact-route v4 规定路由不允许嵌套\n```js\n// V2 or V3 路由组件嵌套\nimport { Router, Route, hashHistory } from 'react-router';\n\n<Router history={hashHistory}>\n  <Route path='/' component={App}>\n    <Route path='foo' component={Foo} />\n    <Route path='bar' component={Bar} />\n  </Route>\n</Router>\n// V4 Router 的路由组件嵌套\nimport {\n    HashRouter as Router,\n    Route,\n    Switch\n} from 'react-router-dom';\n\n<Router>\n <Route path=\"/\" component={(props) => (\n    <App {...props}>\n      <Switch>\n        <Route path='/foo' component={Foo} />\n        <Route path='/bar' component={Bar} />\n      </Switch>\n    </App>\n  )}/>\n</Router>\n```\nhashHistory\n```js\n// 以前\nimport {hashHistory} from 'react-router';\nconst history = hashHistory;\n\n// now\nimport createHashHistory from 'history/createBrowserHistory'\nconst history = createHashHistory()\n//dva中修改history\nimport browserHistory from 'history/createBrowserHistory';\n// 1. Initialize\nconst app = dva({\n  history: browserHistory(),\n});\n```\n\n### service\nservice负责的是数据的请求\n\nrequest函数是一个封装的fetch函数\n```js\nexport async function getrandom(param) {\n  return request('/article/random?dev=1');\n}\n\nexport async function getoneday(param) {\n  return request(`/article/day?dev=1&date=${param.date}`);\n}\n```\n\n### model\nmodel层负责的是数据的处理\n\ncall是请求接口，put是进行数据存取\n```js\n*getRandom({ payload }, { call, put }) {\n   try {\n     const { data } = yield call(example.getrandom, payload);\n     if (data) {\n       yield put({ type: 'save', payload: { random: data } });\n     } else {\n       message.error('random error');\n     }\n   } catch (error) {\n     message.error(error);\n   }\n },\n```\n### proxy配置\n进行代理请求\nhttps://interface.meiriyiwen.com/article/day?dev=1\n```js\n\"proxy\": {\n      \"/article\": {\n        \"target\": \"https://interface.meiriyiwen.com\",\n        \"changeOrigin\": true\n      }\n},\n```\n### 可能遇到的问题\n- 嵌套路由刷新不生效\n```js\n// public/index.html\n<script src=\"index.js\"></script>\n// 改成\n<script src=\"/index.js\"></script>\n```\n- JSON格式出错，尽量不要复制，手打一遍\n- 数据获取不到（多看请求）\n```js\n// 对象析构，因为这里获取的数据是{data:{..,..,..}},所以才是const { data }将其析构出来，不要被误导全都是用{ data }析构 \nconst { data } = yield call(example.getArticle, payload)\n```",
+        "contentDigest": "ce80011d0010768a0d3d92a4e5b820a6",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "实习生培训--Dva框架数据调用",
+        "subTitle": "公司用Dva框架进行前端开发，Dva是基于redux,redux-saga和react-router的框架，简单容易上手。",
+        "date": "2017-12-16",
+        "path": "/peixun-dva/",
+        "cover": "dva2.png",
+        "_PARENT": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file",
+        "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: 实习生培训--ES6相关知识\nsubTitle: 给公司刚来的实习生做培训，留下资料备份，后续补充。\ndate: \"2017-12-09\"\npath: \"/peixun-es6/\"\ncover: dva.jpg\n---\n\n## Dva中的ES6知识点\n\n### const 与 let\n\n目的：创建块级作用域，let声明变量，const声明常量\n\nlet与var用法类似，但是let声明的变量只在所处的代码块中有效\n```js\n{\n    let a = 1;\n    var b = 2;\n}\nconsole.log(a) //报错\nconsole.log(b) // 2\n```\n再看一道经典面试题，下面代码会输出什么？\n```js\nfor (var i=1; i<=5; i++) {\n    setTimeout( function timer() {\n        console.log(i);\n    }, i*1000 );\n}\n```\nfor循环并不会生成一个作用域，每次循环是跟随变量所在的作用域，而var声明的是全局变量，因此for每次循环中访问的i都是全局中同一个i变量\n\n闭包解决方案\n```js\nfor (var i=1; i<=5; i++) {\n    (function(i) {\n        setTimeout( function timer() {\n            console.log(i);\n        }, i*1000 );\n    })(i)\n}\n```\n\nlet解决方案\n```js\nfor (let i=1; i<=5; i++) {\n    setTimeout( function timer() {\n        console.log(i);\n    }, i*1000 );\n}\n```\n使用let的时候，每次循环i都是let声明的一个新变量，每次循环都会有类似代码块包起来执行，本质上达到了立即执行函数的作用\n\nconst声明的变量，需要赋值且不可以修改，不可以重复声明。\n```js\nconst obj = {\n    a: 1,\n    b: 2,\n}\nobj.a = 2\nconsole.log(obj)\n```\nconst所谓的不可以修改值，指的是改变量的地址不会被修改。简单数据类型的值指向的就是地址，而对于对象和数组，只能保证他的内存地址指针不变。\n\n### 模板字符串\n目的：方便拼接字符串\n```js\nconst user = 'wrold'\nconsole.log(`hello,${world}`)\n```\n\n### 箭头函数\n目的：简化匿名函数，让this指向固定化。\n```js\nconst f = function(v) {\n    return v+1\n}\n// 等同于\nconst f = (v) => {\n    return v+1\n}\n// 等同于\nconst f = v => v+1\n```\n箭头函数本身没有this,箭头函数中的this绑定在定义时所在的作用域而是引用外层的this\n```js\nvar obj = {\n    a: 2,\n    f: function() {\n        console.log(this.a)\n    }\n}\nobj.f()\n\nvar obj = {\n    a: 2,\n    f: () => {\n        console.log(this.a)\n    },\n}\nobj.f()\n```\n\n### 对象解构\n```js\nconst user = { name: 'xxx', age: 2 };\nconst { name, age } = user;\nconsole.log(`${name} : ${age}`); \n```\n可以析构传入的函数参数\n```js\nconst payload = {\n    name: 'xxx',\n    age: '22',\n}\nconst add = ({name}) => {\n    console.log(name)\n}\nadd(payload)\n```\n反向解构\n```js\nconst name = 'xxx';\nconst age = 8;\nconst user = { name, age };  // { name: 'xxx', age: 8 }\n```\n\n### spread operator\nSpread Operator 即 3 个点 ...\n\n几个用法\n```js\n//组装函数或者对象\nconst arr = [1,2,3,4]\nconst arr2 = [11, 22, 33, ...arr]\nconsole.log(arr2)\nconst obj = {a:\"1\",b:\"2\"}\nconst obj1 = {a: \"3\",...obj}\nconsole.log(obj1)\n```\n\n### promise\n用途：优雅处理异步请求\n```js\nconst promise = new Promise(function(resolve, reject) {\n  // ... some code\n  if (/* 异步操作成功 */){\n    resolve(value);\n  } else {\n    reject(error);\n  }\n});\npromise.then(function(value) {\n  // success\n}, function(error) {\n  // failure\n});\n```\n### generators\n用途：异步编程解决方案，用同步写异步\n```js\n//fetch\ngetJson = (url) => {\n    return fetch(url)\n  .then(res => res.json())\n  .then(data => ({ data }))\n  .catch(err => ({ err }));\n}\ngetJson('/api/xxxxx').then((data) => {\n    console.log(data)\n}, (err) => {\n    console.log(err)\n})\n//generator\nfunction* request() {\n  try {\n    let data = yield fetch('/api/xxxxx');\n    console.log(data);\n  } catch (error) {\n    console.log('Oops, error: ', error);\n  }\n}\n```\n//例子：依次读取两个文件\n//回调函数\n```js\nfs.readFile(fileA, 'utf-8', function (err, data) {\n    //.....\n  fs.readFile(fileB, 'utf-8', function (err, data) {\n    //......\n  });\n});\n// promies\nvar readFile = require('fs-readfile-promise');\nreadFile(fileA)\n.then(function (data) {\n  console.log(data.toString());\n})\n.then(function (data) {\n  return readFile(fileB);\n})\n.then(function (data) {\n  console.log(data.toString());\n})\n.catch(function (err) {\n  console.log(err);\n});\n// generators\ngetData = (url) => {\n   return readFile(url)\n    .then(data => ({ data })) \n}\nfunction* readfile() {\n    let data1 = yield getData(fileA)\n    console.log(data1)\n    //...\n    let data2 = yield getData(fileB)\n    //.....\n}\n```\n### Set\n```js\n// 去重\n//对象自带去重\n//数组去重\narr = [1,2,3,4,5,1,2,3]\nadd = (arr) => {\n    const arr2 = []\n    for(let i=0; i<arr.length; i++) {\n        if(arr2.indexOf(arr[i]) === -1){\n            arr2.push(arr[i])\n        }\n    }\n    console.log(arr2)\n}\nadd(arr)\n//es6去重\narr = [1,2,3,4,5,1,2,3]\narr2 = [1,2,3,4,5,1,2,3]\nconst arr2 = new Set([...arr2, ...arr])\nconsole.log(arr2)\n```",
+        "contentDigest": "2e666b594624deb1d8071917888116a7",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "实习生培训--ES6相关知识",
+        "subTitle": "给公司刚来的实习生做培训，留下资料备份，后续补充。",
+        "date": "2017-12-09",
+        "path": "/peixun-es6/",
+        "cover": "dva.jpg",
+        "_PARENT": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file",
+        "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png absPath of file": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png absPath of file",
+      "children": [
+        "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "16240c75647cc8031da31e796f992739",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png",
+      "relativePath": "2017-12-16--peixun-2/dva2.png",
+      "extension": "png",
+      "size": 393207,
+      "prettySize": "393 kB",
+      "modifiedTime": "2018-02-05T14:08:05.000Z",
+      "accessTime": "2018-02-05T15:02:45.000Z",
+      "changeTime": "2018-02-05T15:02:45.000Z",
+      "birthTime": "2018-02-05T14:08:05.000Z",
+      "root": "/",
+      "dir": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2",
+      "base": "dva2.png",
+      "ext": ".png",
+      "name": "dva2",
+      "relativeDirectory": "2017-12-16--peixun-2",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 3576749,
+      "blocks": 768,
+      "atimeMs": 1517842965000,
+      "mtimeMs": 1517839685000,
+      "ctimeMs": 1517842965000,
+      "birthtimeMs": 1517839685000,
+      "atime": "2018-02-05T15:02:45.000Z",
+      "mtime": "2018-02-05T14:08:05.000Z",
+      "ctime": "2018-02-05T15:02:45.000Z",
+      "birthtime": "2018-02-05T14:08:05.000Z"
+    },
+    "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png absPath of file >> ImageSharp": {
+      "id": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png absPath of file",
+      "internal": {
+        "contentDigest": "16240c75647cc8031da31e796f992739",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /know-js-1/": {
+      "layout": "index",
+      "jsonName": "know-js-1.json",
+      "internalComponentName": "ComponentKnowJs1",
+      "path": "/know-js-1/",
+      "component": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/know-js-1/"
+      },
+      "updatedAt": 1517843646607,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "id": "SitePage /know-js-1/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "85c6465fd74eb81e8676e0642726a2e8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /know-js-2/": {
+      "layout": "index",
+      "jsonName": "know-js-2.json",
+      "internalComponentName": "ComponentKnowJs2",
+      "path": "/know-js-2/",
+      "component": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/know-js-2/"
+      },
+      "updatedAt": 1517843646608,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "id": "SitePage /know-js-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6508243e7a51b90071c295763a0d1a30",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /know-js-3/": {
+      "layout": "index",
+      "jsonName": "know-js-3.json",
+      "internalComponentName": "ComponentKnowJs3",
+      "path": "/know-js-3/",
+      "component": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/know-js-3/"
+      },
+      "updatedAt": 1517843646608,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "id": "SitePage /know-js-3/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7896414e5ac776f01cc1ab61faaffb48",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /express-api/": {
+      "layout": "index",
+      "jsonName": "express-api.json",
+      "internalComponentName": "ComponentExpressApi",
+      "path": "/express-api/",
+      "component": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/express-api/"
+      },
+      "updatedAt": 1517843646610,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "id": "SitePage /express-api/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e4949683da86ddd0ce5193b105a0865e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /peixun-dva/": {
+      "layout": "index",
+      "jsonName": "peixun-dva.json",
+      "internalComponentName": "ComponentPeixunDva",
+      "path": "/peixun-dva/",
+      "component": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/peixun-dva/"
+      },
+      "updatedAt": 1517843646611,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "id": "SitePage /peixun-dva/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ab50b959ea4d34ca5b1b31bc7d2c6874",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /peixun-es6/": {
+      "layout": "index",
+      "jsonName": "peixun-es-6.json",
+      "internalComponentName": "ComponentPeixunEs6",
+      "path": "/peixun-es6/",
+      "component": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/peixun-es6/"
+      },
+      "updatedAt": 1517843646611,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/macbookpro/Documents/git/Blog/src/templates/blog-post.js",
+      "id": "SitePage /peixun-es6/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3f9f6326e438fc80bb1aaf0a61477460",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/macbookpro/Documents/git/Blog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1517843068854,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/macbookpro/Documents/git/Blog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2f03098f9768e3d98c8ebed5ea47990c",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "faed861e8a48b73b461eaf8c19d9b0e5"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png absPath of file": [
+        "/",
+        "/peixun-dva/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/dva2.png absPath of file >> ImageSharp": [
+        "/",
+        "/peixun-dva/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg absPath of file": [
+        "/",
+        "/peixun-es6/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/dva.jpg absPath of file >> ImageSharp": [
+        "/",
+        "/peixun-es6/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg absPath of file": [
+        "/",
+        "/express-api/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/express.jpg absPath of file >> ImageSharp": [
+        "/",
+        "/express-api/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png absPath of file": [
+        "/",
+        "/know-js-3/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/knowjs.png absPath of file >> ImageSharp": [
+        "/",
+        "/know-js-3/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png absPath of file": [
+        "/",
+        "/know-js-2/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/knowjs.png absPath of file >> ImageSharp": [
+        "/",
+        "/know-js-2/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png absPath of file": [
+        "/",
+        "/know-js-1/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/knowjs.png absPath of file >> ImageSharp": [
+        "/",
+        "/know-js-1/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-11--you-dont-know-js1/index.md absPath of file >>> MarkdownRemark": [
+        "/know-js-1/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-18--you-dont-know-js2/index.md absPath of file >>> MarkdownRemark": [
+        "/know-js-2/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-11-25--you-dont-know-js3/index.md absPath of file >>> MarkdownRemark": [
+        "/know-js-3/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-02--express-api/index.md absPath of file >>> MarkdownRemark": [
+        "/express-api/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-16--peixun-2/index.md absPath of file >>> MarkdownRemark": [
+        "/peixun-dva/"
+      ],
+      "/Users/macbookpro/Documents/git/Blog/content/posts/2017-12-09--peixun-1/index.md absPath of file >>> MarkdownRemark": [
+        "/peixun-es6/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

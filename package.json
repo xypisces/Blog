@@ -1,31 +1,48 @@
 {
-    "private": true,
-    "scripts": {
-        "start": "roadhog server",
-        "build": "roadhog build",
-        "lint": "eslint --ext .js src test",
-        "precommit": "npm run lint"
-    },
-    "dependencies": {
-        "axios": "^0.17.1",
-        "antd": "^3.1.4",
-        "babel-plugin-import": "^1.6.3",
-        "dva": "^2.1.0",
-        "koa": "^2.4.1",
-        "koa-router": "^7.3.0",
-        "react": "^16.2.0",
-        "react-dom": "^16.2.0"
-    },
-    "devDependencies": {
-        "babel-plugin-dva-hmr": "^0.3.2",
-        "eslint": "^4.14.0",
-        "eslint-config-umi": "^0.1.1",
-        "eslint-plugin-flowtype": "^2.34.1",
-        "eslint-plugin-import": "^2.6.0",
-        "eslint-plugin-jsx-a11y": "^5.1.1",
-        "eslint-plugin-react": "^7.1.0",
-        "husky": "^0.12.0",
-        "redbox-react": "^1.4.3",
-        "roadhog": "^2.0.0"
-    }
+  "name": "gatsby-styled-blog-starter",
+  "description": "StyledBlog starter/theme for Gatsby",
+  "author": "Greg Lobinski <greglobinski@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xypisces/xypisces.github.io"
+  },
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.110",
+    "gatsby-image": "^1.0.24",
+    "gatsby-link": "^1.6.27",
+    "gatsby-plugin-catch-links": "^1.0.9",
+    "gatsby-plugin-google-analytics": "^1.0.13",
+    "gatsby-plugin-manifest": "^1.0.8",
+    "gatsby-plugin-netlify": "^1.0.8",
+    "gatsby-plugin-offline": "^1.0.10",
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-sharp": "^1.6.21",
+    "gatsby-plugin-styled-components": "^2.0.2",
+    "gatsby-plugin-typography": "^1.7.10",
+    "gatsby-remark-copy-linked-files": "^1.5.21",
+    "gatsby-remark-images": "^1.5.32",
+    "gatsby-remark-prismjs": "^1.2.9",
+    "gatsby-remark-responsive-iframe": "^1.4.14",
+    "gatsby-remark-smartypants": "^1.4.8",
+    "gatsby-source-filesystem": "^1.5.8",
+    "gatsby-transformer-remark": "^1.7.21",
+    "gatsby-transformer-sharp": "^1.6.14",
+    "normalize.css": "^7.0.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
+    "styled-components": "2.2.0",
+    "what-input": "^5.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
 }

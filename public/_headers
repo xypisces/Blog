@@ -1,0 +1,56 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/offline-plugin-app-shell-fallback/
+  Link: </commons-af3fe49751ef4744cf5e.js>; rel=preload; as=script
+  Link: </app-faa60fbcfc3e476f252e.js>; rel=preload; as=script
+  Link: </path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6a6b507f0ef074170d21.js>; rel=preload; as=script
+/know-js-1/
+  Link: </commons-af3fe49751ef4744cf5e.js>; rel=preload; as=script
+  Link: </app-faa60fbcfc3e476f252e.js>; rel=preload; as=script
+  Link: </path---know-js-1-50760705345c48cf1c46.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-3c095373ce58759b541e.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6a6b507f0ef074170d21.js>; rel=preload; as=script
+/express-api/
+  Link: </commons-af3fe49751ef4744cf5e.js>; rel=preload; as=script
+  Link: </app-faa60fbcfc3e476f252e.js>; rel=preload; as=script
+  Link: </path---express-api-d3b3adf08b9ea19f832a.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-3c095373ce58759b541e.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6a6b507f0ef074170d21.js>; rel=preload; as=script
+/know-js-3/
+  Link: </commons-af3fe49751ef4744cf5e.js>; rel=preload; as=script
+  Link: </app-faa60fbcfc3e476f252e.js>; rel=preload; as=script
+  Link: </path---know-js-3-8e73c1c33a90bc01934d.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-3c095373ce58759b541e.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6a6b507f0ef074170d21.js>; rel=preload; as=script
+/peixun-es6/
+  Link: </commons-af3fe49751ef4744cf5e.js>; rel=preload; as=script
+  Link: </app-faa60fbcfc3e476f252e.js>; rel=preload; as=script
+  Link: </path---peixun-es-6-2a6e7fbb2b80aea7c2f9.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-3c095373ce58759b541e.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6a6b507f0ef074170d21.js>; rel=preload; as=script
+/peixun-dva/
+  Link: </commons-af3fe49751ef4744cf5e.js>; rel=preload; as=script
+  Link: </app-faa60fbcfc3e476f252e.js>; rel=preload; as=script
+  Link: </path---peixun-dva-99ba87b3409737079399.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-3c095373ce58759b541e.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6a6b507f0ef074170d21.js>; rel=preload; as=script
+/know-js-2/
+  Link: </commons-af3fe49751ef4744cf5e.js>; rel=preload; as=script
+  Link: </app-faa60fbcfc3e476f252e.js>; rel=preload; as=script
+  Link: </path---know-js-2-a5301086271ff1182b26.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-3c095373ce58759b541e.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6a6b507f0ef074170d21.js>; rel=preload; as=script
+/
+  Link: </commons-af3fe49751ef4744cf5e.js>; rel=preload; as=script
+  Link: </app-faa60fbcfc3e476f252e.js>; rel=preload; as=script
+  Link: </path---index-89fd7e298effb5dd7568.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-09a60a1848745b09792b.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-6a6b507f0ef074170d21.js>; rel=preload; as=script

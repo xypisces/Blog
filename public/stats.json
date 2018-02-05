@@ -1,0 +1,66 @@
+{
+  "assetsByChunkName": {
+    "path---peixun-dva": [
+      "path---peixun-dva-99ba87b3409737079399.js",
+      "path---peixun-dva-99ba87b3409737079399.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-09a60a1848745b09792b.js",
+      "component---src-pages-index-js-09a60a1848745b09792b.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---know-js-3": [
+      "path---know-js-3-8e73c1c33a90bc01934d.js",
+      "path---know-js-3-8e73c1c33a90bc01934d.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-3c095373ce58759b541e.js",
+      "component---src-templates-blog-post-js-3c095373ce58759b541e.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-6a6b507f0ef074170d21.js",
+      "component---src-layouts-index-js-6a6b507f0ef074170d21.js.map"
+    ],
+    "path---index": [
+      "path---index-89fd7e298effb5dd7568.js",
+      "path---index-89fd7e298effb5dd7568.js.map"
+    ],
+    "commons": [
+      "commons-af3fe49751ef4744cf5e.js",
+      "commons-af3fe49751ef4744cf5e.js.map"
+    ],
+    "path---express-api": [
+      "path---express-api-d3b3adf08b9ea19f832a.js",
+      "path---express-api-d3b3adf08b9ea19f832a.js.map"
+    ],
+    "path---peixun-es-6": [
+      "path---peixun-es-6-2a6e7fbb2b80aea7c2f9.js",
+      "path---peixun-es-6-2a6e7fbb2b80aea7c2f9.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---know-js-1": [
+      "path---know-js-1-50760705345c48cf1c46.js",
+      "path---know-js-1-50760705345c48cf1c46.js.map"
+    ],
+    "path---know-js-2": [
+      "path---know-js-2-a5301086271ff1182b26.js",
+      "path---know-js-2-a5301086271ff1182b26.js.map"
+    ],
+    "app": [
+      "app-faa60fbcfc3e476f252e.js",
+      "build-js-styles.css",
+      "app-faa60fbcfc3e476f252e.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}
